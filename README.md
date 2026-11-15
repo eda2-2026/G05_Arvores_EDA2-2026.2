@@ -270,6 +270,29 @@ Esse comando remove os arquivos objeto, o executável principal `sistema` e o ex
 
 ---
 
-**Projeto acadêmico — Estruturas de Dados 2**  
-**Grupo:** G05
-**Integrantes:** Beatriz Lins e Maria Eduarda Quaresma
+## Vídeo de apresentação
+
+- Link Video: [TRABALHO 03](https://youtu.be/7B9tamIlS9w)
+
+<div align="center">
+
+## Membros da Equipe
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Beatriz-ge">
+        <img src="https://avatars.githubusercontent.com/u/129804255?v=4" width="120" alt="Beatriz Lins"><br>
+        <sub><b>Beatriz Lins - 222021844 </b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dudaa28">
+        <img src="https://avatars.githubusercontent.com/u/164348330?v=4" width="120" alt="Maria Eduarda"><br>
+        <sub><b>Maria Eduarda - 222037577 </b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
